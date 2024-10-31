@@ -31,3 +31,7 @@
 <p align="left">I have experience in several programming languages including Python, Java, SQL, HTML and CSS. My interest extends beyond just writing code; I am fascinated by the entire software development lifecycle, from gathering requirements and designing systems to testing and deployment. I believe that a good software developer not only has the knowledge to write robust and efficient code, but also has the skills to work and communicate in a team, and manage time.</p>
 
 ###
+
+[Alex's Cookie Company Project](CookieCompany/index.html) - A project showcasing my HTML learning.
+
+###
